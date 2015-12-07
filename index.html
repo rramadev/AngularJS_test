@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="_css/custom.css">
+  <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <script src= "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-route.min.js"></script> 
+</head>
+<!-- Start app -->
+<body ng-app="app">
+
+  <!-- Start testCtrl -->
+  <div ng-controller="Controller as testCtrl">
+    <h1 ng-class="{cool: testCtrl.varClass}">My first expression: {{ testCtrl.sentence }}</h1>
+    <input ng-model="testCtrl.val" ng-change="testCtrl.watcher()">
+    <h3>Cambios: {{ testCtrl.cambios }}</h3>
+    <button ng-click="testCtrl.func()">Add</button>
+    <span ng-show="testCtrl.tooLong">Too Long !!!</span>
+    <hr>
+    <input ng-model="testCtrl.filtro.name">
+    <div ng-repeat="user in testCtrl.users | filter:testCtrl.filtro">
+     {{ user.name }} - {{ user.age }}
+    </div>
+    <h3>Pueden beber:</h3>
+    <input ng-model="testCtrl.edadMin">
+    <div ng-repeat="user in testCtrl.users | edad:testCtrl.edadMin">
+     {{ user.name }} - {{ user.age }}
+    </div>
+    <div>Const: {{ testCtrl.constS }}</div>
+    <div>Value: {{ testCtrl.valS }}</div>
+    <div>Factory: {{ testCtrl.factS }}</div>
+    <div>Service: {{ testCtrl.servS }}</div>
+    <div>Provider: {{ testCtrl.provS }}</div>
+    <div>Factory (extended by Decorator): {{ testCtrl.decoS }}</div>
+    <hr>
+    <!-- <h3>Directives:</h3>
+    <photo photo-src="{{photo.url}}" caption="Taken on {{photo.date}}" />
+    <hr> -->
+    <h3>Routing:</h3>
+    <ng-view></ng-view>
+
+  </div>
+  <!-- /End testCtrl -->
+
+  <!-- Script Section -->
+  <!-- Module App -->
+  <script src= "_js/app.js"></script>
+  <!-- Module Controllers -->
+  <script src= "_js/controllers.js"></script>
+  <!-- Module Filters -->
+  <script src= "_js/filters.js"></script>
+  <!-- Module Services -->
+  <script src= "_js/services.js"></script>
+  <!-- Module Directives -->
+  <script src= "_js/directives.js"></script>
+
+  <!-- Template -->
+  <script type="text/ng-template" id="view1.html">
+    <div ng-controller="Controller as testCtrl">
+    View 1 :
+      <figure>
+        <img width="500px" ng-src="{{testCtrl.photo.url}}"/>
+        <figcaption>{{testCtrl.photo.date}}</figcaption>
+      </figure>
+      <button ng-click="testCtrl.navigate()">View 2</button>
+    </div>
+  </script>
+
+  <script type="text/ng-template" id="view2.html">
+  View 2 :
+    <div ng-controller="Controller as testCtrl">
+      <figure>
+        <img width="500px" ng-src="{{testCtrl.photo.url2}}"/>
+        <figcaption>{{testCtrl.photo.date}}</figcaption>
+      </figure>
+    </div>
+  </script>
+
+  <!-- Comment for GIT -->
+  <!-- /End Comment-->
+
+</body>
+<!-- /End app-->
+</html>

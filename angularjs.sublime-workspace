@@ -1,0 +1,614 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"figcaption"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"s",
+				"setData"
+			],
+			[
+				"pro",
+				"provServiceProvider"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"conta",
+				"contact_btn"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"a",
+				"vertical-align"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"b",
+				"bootstrap"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2646,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_js/app.js",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 1146,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/angular-phonecat/test/protractor-conf.js",
+			"settings":
+			{
+				"buffer_size": 278,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_js/filters.js",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_js/services.js",
+			"settings":
+			{
+				"buffer_size": 2015,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_js/directives.js",
+			"settings":
+			{
+				"buffer_size": 861,
+				"line_ending": "Windows",
+				"name": "directives"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/_css/custom.css",
+		"/C/Users/RAUL/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/js/app.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/js/controllers.js",
+		"/C/Users/RAUL/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/RAUL/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/angularjs.sublime-project",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/index.html",
+		"/C/Users/RAUL/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/js/custom.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/css/style.css",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/index.html",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult_Local_OLD/old_Backup/home.html",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/css/animate.css",
+		"/D/05. Software/LYNDA.COM Training/HTML5 Projects Advanced To-Do List/Exercise/Ex_Files_HTML5_Adv_ToDo/Exercise Files/Chapter 3/03_05/final/index.htm",
+		"/C/Users/RAUL/Downloads/bootstrap-validator-master/js/validator.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult_Local_OLD/www.zander-consult.de/43171.html",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/js/url.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/TEMPLATES/Karma/css/templatemo_style.css",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/css/animation.css",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/img/portfolio_pic7.jpg",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/js/jquery-scrolltofixed.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Zander-Consult/js/jquery.nav.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Bootstrap/Lynda 1/02_08.html",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Bootstrap/Lynda 1/js/npm.js",
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/Bootstrap/Lynda 1/js/custom.js",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/index.html",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/js/custom.js",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/02_08.html",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/css/custom.css",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/02_04.html",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/02_03.html",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/grid.html",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/js/respond.min.js",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/js/bootstrap.min.js",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/js/npm.js",
+		"/D/05. Software/LYNDA.COM Training/6. Bootstrap/Lynda - Up and Running with Bootstrap 3/Exercise/Bootstrap/Chapter 1/01_04/index.html",
+		"/C/user.js",
+		"/C/Code/Ruby/prueba.rb",
+		"/D/wamp/bin/apache/apache2.4.9/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"wow",
+			"delay",
+			"#kontakt",
+			"url",
+			"setse",
+			"url.js",
+			"http",
+			"input-text",
+			"download",
+			"   \n",
+			"download\ndownload",
+			"\ndownload",
+			"%;\ndownload",
+			"%;\ndownloads",
+			"%;\n",
+			"nav-collapse",
+			"navbar-toggle",
+			"icon-bar",
+			"navbar-toggle",
+			"icon-bar",
+			"overflow",
+			"icon-bar",
+			"navbar-toggle",
+			"nav-toggle",
+			"nav-tabs",
+			"IMG",
+			"li",
+			"top",
+			"home",
+			"panel-heading",
+			"schulungen",
+			"media-body",
+			"service_block",
+			"schulungen",
+			"bounce",
+			"bounceRight",
+			"col-sm-4",
+			"contact_btn",
+			"service-list ",
+			"service",
+			"work",
+			"project",
+			"arrow",
+			"portfolio",
+			"clients",
+			"download",
+			"contact_section",
+			"down",
+			"section-title",
+			"downloads",
+			"portfolio",
+			"item",
+			"portfolio-top",
+			"service",
+			"img",
+			"wow",
+			"section",
+			"input-text",
+			"page_section team",
+			"page_section.team",
+			"page_section",
+			"service_block",
+			"portfolio",
+			"page_section",
+			".service_block",
+			"dropdown-menu",
+			"section-title",
+			"contact_sectio",
+			"nav",
+			"parallax",
+			"home_section",
+			"collapseThree1",
+			"panel",
+			"ul",
+			"img-circle",
+			"service",
+			"team",
+			"$.scrollTo",
+			"$.scrollTo(newLoc, o.scrollSpeed",
+			"offset",
+			"scrollBy",
+			"scrollBy(0",
+			"nav",
+			"click",
+			"$('.navbar li a')",
+			"home",
+			"aboutUs",
+			"h3",
+			"hero",
+			"	background-color: #ccc;\n",
+			"ccc",
+			"container",
+			"  \n",
+			"container",
+			"</section>container\n",
+			"container",
+			"80"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Überblick",
+			"home"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2646,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2295,
+								2295
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 737.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_js/app.js",
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_js/controllers.js",
+					"settings":
+					{
+						"buffer_size": 1146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								937,
+								937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/angular-phonecat/test/protractor-conf.js",
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_js/filters.js",
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_js/services.js",
+					"settings":
+					{
+						"buffer_size": 2015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1160,
+								1160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_js/directives.js",
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"auto_name": "directives",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.unsaved_changes":
+	{
+		"height": 429.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}
