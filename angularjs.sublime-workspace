@@ -95,8 +95,16 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2646,
+				"buffer_size": 2697,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".git/COMMIT_EDITMSG",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -112,14 +120,6 @@
 			"settings":
 			{
 				"buffer_size": 1146,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/angular-phonecat/test/protractor-conf.js",
-			"settings":
-			{
-				"buffer_size": 278,
 				"line_ending": "Windows"
 			}
 		},
@@ -173,6 +173,7 @@
 	},
 	"file_history":
 	[
+		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/angular-phonecat/test/protractor-conf.js",
 		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/_css/custom.css",
 		"/C/Users/RAUL/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/AngularJS/js/app.js",
@@ -347,7 +348,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -355,15 +356,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 2646,
+						"buffer_size": 2697,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2295,
-								2295
+								2672,
+								2672
 							]
 						],
 						"settings":
@@ -373,13 +374,39 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 737.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": ".git/COMMIT_EDITMSG",
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "_js/app.js",
 					"settings":
 					{
@@ -406,7 +433,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "_js/controllers.js",
 					"settings":
 					{
@@ -419,34 +446,6 @@
 							[
 								937,
 								937
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 216.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/06. Entwicklung/03. WEB DESIGN/PROJECTS/angular-phonecat/test/protractor-conf.js",
-					"settings":
-					{
-						"buffer_size": 278,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
 							]
 						],
 						"settings":
@@ -474,7 +473,7 @@
 						[
 							[
 								129,
-								0
+								129
 							]
 						],
 						"settings":
