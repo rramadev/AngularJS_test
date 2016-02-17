@@ -1,5 +1,5 @@
 # Ignore following files
 
-_img/*.*
+_img/*.jpg
 *.sublime-workspace 
 *.sublime-project
