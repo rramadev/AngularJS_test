@@ -1,0 +1,11 @@
+{
+  "name": "Angular_test",
+  "description": "A test project for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rramadev/Angular_test.git",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-route": "1.4.x"
+  }
+}
